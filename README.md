@@ -2,9 +2,6 @@
 <h3 align="center">I am studying Front End Development at Bloomtech! <Javascript, React, Etc></h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomontyk" alt="solomontyk" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and React Libraries!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/solomontyk](https://github.com/solomontyk)
