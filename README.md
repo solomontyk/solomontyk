@@ -6,8 +6,6 @@
 
 -  All of my projects are available at [https://github.com/solomontyk](https://github.com/solomontyk)
 
--  How to reach me **solomontyk@gmail.com**
-
 -  I am dedicated to growing my skillset to become a useful asset.
 
 -  Feel free to contact me at solomontyk@gmail.com
