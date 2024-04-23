@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ty Solomon</h1>
-<h3 align="center">I am Full Stack Web Developer learning at Bloomtech! <Javascript, React, Etc></h3>
+<h3 align="center">I am Full Stack Web Developer and Software Engineer <Javascript, React, Etc></h3>
 
 
--  I’m currently learning **Javascript and React Libraries!**
+-  I’m proficient in React libraries, Node, Express, and more!
 
 -  All of my projects are available at [https://github.com/solomontyk](https://github.com/solomontyk)
 
